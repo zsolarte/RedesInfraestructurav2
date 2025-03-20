@@ -4,7 +4,7 @@ const connection = mysql.createPool({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'almacen'
+    database: 'ordenesDB'
 });
 
 async function crearOrden(orden) {
