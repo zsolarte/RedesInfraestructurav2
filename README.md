@@ -11,7 +11,7 @@ PRODUCTOS: Gestionar la información de los productos y permitir disminuir el in
 
 ORDENES: Recibir la información de los productos que desean adquirir los usuarios, validar que existan, solicitar disminuir el inventario y calcular el precio total de la orden, crear la orden.
 
-Cada microservicio tendrá asociado una base de datoc con las tablas requeridas para su funcionamiento.
+Cada microservicio tendrá asociado una base de datos con las tablas requeridas para su funcionamiento.
 
 El script para la creación de las bases de datos y las tablas se encuentra en el archivo scripts.sql
 
